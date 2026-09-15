@@ -27,4 +27,6 @@ Proyecto del curso **Codo a Codo** (2024).
 
 ## Cómo verlo
 
-Abrir `index.html` en el navegador. No necesita instalación ni servidor.
+Opcion 1: Abrir `index.html` en el navegador. No necesita instalación ni servidor.
+
+Opcion 2: Abrir el link de GitHub Pages de la descripcion. https://catalinacorrea-png.github.io/Proyecto-Final-CodoACodo/
